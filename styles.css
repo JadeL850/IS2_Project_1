@@ -47,6 +47,7 @@ p {
     transform: translateY(20px);
     transition: none;
     font-size: 80px;
+    font-family: 'CustomFont', Manuka;
 }
 
 .fade-in {
@@ -128,6 +129,7 @@ p {
     font-size: 70px;
     font-weight: bold;
     color: #fff;
+    font-family: 'CustomFont', Manuka;
 }
 
 /* Keyframe for smooth upward scrolling */
