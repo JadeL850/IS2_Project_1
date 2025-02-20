@@ -121,7 +121,8 @@ p {
     align-items: flex-start; /* Align text to the left */
     justify-content: flex-start;
     gap: 20px;
-    animation: scrollUp 15s linear infinite; /* Keeps the text moving */
+    animation: scrollUp 15s linear infinite; 
+    font-family: 'CustomFont', Manuka;
 }
 
 /* Each "Summarize Me" text */
